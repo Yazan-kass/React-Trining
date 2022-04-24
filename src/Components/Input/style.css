@@ -1,0 +1,11 @@
+form{
+    margin: 10px;
+}
+label{
+    margin: 3px;
+}
+input{
+    background-color: #f7f9fa;
+    margin-left: 4px;
+    border-radius: 15px;
+}

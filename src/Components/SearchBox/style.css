@@ -1,0 +1,31 @@
+.Box{
+    height: 4.3rem;
+    border: 1px solid #080808;
+    border-radius: 9999px;
+    background-color: #f7f9fa;
+    margin: 1.2rem  0;
+    position: relative;
+}
+form{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding: 0 2.4rem 0 0;
+    box-sizing: border-box;
+}
+input{
+    height: 50%;
+    background-color: transparent;
+    padding: 0 0 0 0.4rem;
+    border: 0;
+    flex: 1;
+}
+.Box img{
+    color: #1c1d1f;
+    width: 2.4rem;
+    height: 2.4rem;
+    fill: currentColor;
+    display: inline-block;
+    flex-shrink: 0;
+    border: none;
+}
